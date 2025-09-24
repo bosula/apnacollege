@@ -1,3 +1,4 @@
 # apnacollege
-this is my first repository
-Author: Eesha Bos
+this is my first repository.
+<br>
+Author: Eesha Bosula
